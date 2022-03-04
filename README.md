@@ -5,3 +5,7 @@ Simple Review Component written in React.js
 ### Screenshot:
 
 ![Screenshot](./screenshot.png)
+
+### Demo:
+
+![Demo Gif](./reviews.gif)
